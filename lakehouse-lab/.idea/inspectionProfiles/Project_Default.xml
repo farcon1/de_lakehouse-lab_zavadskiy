@@ -1,0 +1,72 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-types" />
+          <option value="asgiref" />
+          <option value="beautifulsoup4" />
+          <option value="Brotli" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="contourpy" />
+          <option value="cssselect2" />
+          <option value="cycler" />
+          <option value="Django" />
+          <option value="djangorestframework" />
+          <option value="et_xmlfile" />
+          <option value="fonttools" />
+          <option value="gunicorn" />
+          <option value="idna" />
+          <option value="inflate64" />
+          <option value="kiwisolver" />
+          <option value="lxml" />
+          <option value="matplotlib" />
+          <option value="multivolumefile" />
+          <option value="numpy" />
+          <option value="openpyxl" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="pillow" />
+          <option value="psutil" />
+          <option value="psycopg2-binary" />
+          <option value="py7zr" />
+          <option value="pybcj" />
+          <option value="pycparser" />
+          <option value="pycryptodomex" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="pydyf" />
+          <option value="pyparsing" />
+          <option value="pyphen" />
+          <option value="pyppmd" />
+          <option value="python-dateutil" />
+          <option value="python-docx" />
+          <option value="python-dotenv" />
+          <option value="pytz" />
+          <option value="pyzstd" />
+          <option value="requests" />
+          <option value="six" />
+          <option value="soupsieve" />
+          <option value="sqlparse" />
+          <option value="texttable" />
+          <option value="tinycss2" />
+          <option value="tinyhtml5" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="weasyprint" />
+          <option value="webencodings" />
+          <option value="zopfli" />
+          <option value="django-ordered-model" />
+          <option value="extract-msg" />
+          <option value="olefile" />
+          <option value="tzlocal" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
